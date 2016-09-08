@@ -1,0 +1,40 @@
+<div class="col-md-4 car">
+<h2>Dodge</h2>
+<p><strong>Model:
+</strong> Avenger</p>
+<p><strong>Year:
+</strong> 2013</p>
+</div><div class="col-md-4 car">
+<h2>Nissan</h2>
+<p><strong>Model:
+</strong> Maxima</p>
+<p><strong>Year:
+</strong> 2009</p>
+</div><div class="col-md-4 car">
+<h2>Subaru</h2>
+<p><strong>Model:
+</strong> Impreza WRX</p>
+<p><strong>Year:
+</strong> 2013</p>
+</div>
+
+<div class="row">
+<div class="col-md-4 car">
+<h2>Dodge </h2>
+<p> <strong>Model:
+</strong> Avenger </p>
+<p> <strong>Year:
+</strong> 2013 </p>
+</div> <div class="col-md-4 car">
+<h2>Nissan </h2>
+<p> <strong>Model:
+</strong> Maxima </p>
+<p> <strong>Year:
+</strong> 2009 </p>
+</div> <div class="col-md-4 car">
+<h2>Subaru </h2>
+<p> <strong>Model:
+</strong> Impreza WRX </p>
+<p> <strong>Year:
+</strong> 2013 </p>
+</div> </div>' 
